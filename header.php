@@ -67,7 +67,7 @@ $posts = mysqli_num_rows($run_posts);
       <div class="sidebar-toggle-box">
         <div class="fa fa-bars tooltips" data-placement="right" data-original-title="Toggle Navigation"></div>
       </div>
-      <a href="home.php" class="logo"><b>DA<span>W</span></b></a>
+      <a href="home.php" class="logo"><b>AW<span>D</span></b></a>
       <div class="nav notify-row" id="top_menu">
 
         <ul class="nav top-menu">
